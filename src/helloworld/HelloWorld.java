@@ -21,6 +21,7 @@ public class HelloWorld {
         {
             System.out.print(revArray1[i]);
             //added this comment
+            //added again other comment
         }
     }
 
